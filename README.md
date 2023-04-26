@@ -6,7 +6,7 @@
 
 - [Internet Computer Protocol](https://github.com/internet-computer-protocol)
 - [FactLand](https://factland.org)
-- [KTrack](https:://ktrack.org)
+- [KTrack](https://ktrack.org)
 
 ### Interests
 
