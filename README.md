@@ -1,4 +1,4 @@
-![Gmail jplevyakt@gmail.com](https://img.shields.io/badge/-jplevyak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jplevyak@gmail.com)](mailto:jplevyak@gmail.com)
+[![Gmail jplevyakt@gmail.com](https://img.shields.io/badge/-jplevyak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jplevyak@gmail.com)](mailto:jplevyak@gmail.com)
 [![LinkedIn: JohnPlevyak](https://img.shields.io/badge/-JohnPlevyak-blue?flat&logo=linkedin&logoColor=white&color=0D76A8&link=https://www.linkedin.com/in/JohnPlevyak/)](https://www.linkedin.com/in/JohnPlevyak/)
 [![GitHub jplevyak](https://img.shields.io/github/followers/jplevyak?label=follow&style=social)](https://github.com/jplevyak)
 
